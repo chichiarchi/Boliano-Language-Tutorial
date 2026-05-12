@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply antialiased;
+  }
+}
+
+@layer components {
+  .glass-card {
+    @apply bg-white/30 backdrop-blur-md border border-white/20 rounded-2xl shadow-xl;
+  }
+  
+  .btn-primary {
+    @apply bg-sea-blue text-sand-beige px-6 py-2 rounded-full font-semibold hover:bg-ocean-teal transition-all active:scale-95;
+  }
+
+  .nav-link {
+    @apply text-sea-blue hover:text-coral transition-colors relative after:content-[''] after:absolute after:bottom-0 after:left-0 after:w-0 after:h-0.5 after:bg-coral after:transition-all hover:after:w-full;
+  }
+}

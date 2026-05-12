@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "term": "Mabuya",
+    "ipa_phonetic": "/mɐ.bu.jɐ/",
+    "tagalog_equiv": "Maganda",
+    "english_equiv": "Beautiful",
+    "audio_url": "",
+    "cultural_context": "Used to describe both physical beauty and pleasant weather/scenery in Bolinao.",
+    "literal_translation": "Good to look at"
+  },
+  {
+    "id": 2,
+    "term": "Pangan",
+    "ipa_phonetic": "/pɐ.ŋɐn/",
+    "tagalog_equiv": "Kain",
+    "english_equiv": "Eat",
+    "audio_url": "",
+    "cultural_context": "A central part of Bolinao hospitality is inviting guests to 'pangan'.",
+    "literal_translation": "Consume food"
+  },
+  {
+    "id": 3,
+    "term": "Balay",
+    "ipa_phonetic": "/bɐ.lɐɪ/",
+    "tagalog_equiv": "Bahay",
+    "english_equiv": "House",
+    "audio_url": "",
+    "cultural_context": "Traditional Bolinao houses were often built near the coast.",
+    "literal_translation": "Dwelling"
+  },
+  {
+    "id": 4,
+    "term": "Inum",
+    "ipa_phonetic": "/i.num/",
+    "tagalog_equiv": "Inom",
+    "english_equiv": "Drink",
+    "audio_url": "",
+    "cultural_context": "Refers to both water and local beverages like tuba.",
+    "literal_translation": "Quench thirst"
+  },
+  {
+    "id": 5,
+    "term": "Dalan",
+    "ipa_phonetic": "/dɐ.lɐn/",
+    "tagalog_equiv": "Daan",
+    "english_equiv": "Road / Path",
+    "audio_url": "",
+    "cultural_context": "Symbolizes the journey of the Bolinao people through history.",
+    "literal_translation": "Way"
+  },
+  {
+    "id": 6,
+    "term": "Anak",
+    "ipa_phonetic": "/ɐ.nɐk/",
+    "tagalog_equiv": "Anak",
+    "english_equiv": "Child",
+    "audio_url": "",
+    "cultural_context": "Children are seen as the future of the dialect's preservation.",
+    "literal_translation": "Offspring"
+  },
+  {
+    "id": 7,
+    "term": "Ina",
+    "ipa_phonetic": "/i.nɐ/",
+    "tagalog_equiv": "Ina",
+    "english_equiv": "Mother",
+    "audio_url": "",
+    "cultural_context": "The 'Ina' is often the primary teacher of the mother tongue.",
+    "literal_translation": "Female parent"
+  },
+  {
+    "id": 8,
+    "term": "Ama",
+    "ipa_phonetic": "/ɐ.mɐ/",
+    "tagalog_equiv": "Ama",
+    "english_equiv": "Father",
+    "audio_url": "",
+    "cultural_context": "The provider and guardian of cultural heritage.",
+    "literal_translation": "Male parent"
+  },
+  {
+    "id": 9,
+    "term": "Salamat",
+    "ipa_phonetic": "/sɐ.lɐ.mɐt/",
+    "tagalog_equiv": "Salamat",
+    "english_equiv": "Thank you",
+    "audio_url": "",
+    "cultural_context": "A universal expression of gratitude, shared with Tagalog but deeply rooted.",
+    "literal_translation": "Peace / Gratitude"
+  },
+  {
+    "id": 10,
+    "term": "Maong",
+    "ipa_phonetic": "/mɐ.oŋ/",
+    "tagalog_equiv": "Mabuti",
+    "english_equiv": "Good",
+    "audio_url": "",
+    "cultural_context": "Used in greetings and to express well-being.",
+    "literal_translation": "Well"
+  }
+]
